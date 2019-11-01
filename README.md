@@ -8,13 +8,13 @@ This Notebook follows three main parts:
 3. The results prediction
 
 The model contains:
-Input layer
-Convolutional layer with 64 filters of size 3X3
-MaxPool layer of size 2X2 and stride=None
-Flattening layer
-1st ANN with output dim=256
-2nd ANN with output dim=256
-Output layer with output dim=10
+1. Input layer
+2. Convolutional layer with 64 filters of size 3X3
+3. MaxPool layer of size 2X2 and stride=None
+4. Flattening layer
+5. 1st ANN with output dim=256
+6. 2nd ANN with output dim=256
+7. Output layer with output dim=10
 
 
 
